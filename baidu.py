@@ -1,9 +1,9 @@
 
 from selenium import webdriver
 import time
-driver=webdriver.Firefox()
+#driver=webdriver.Firefox()
 #"C:\\Program Files\\Mozilla Firefox\\geckodriver.exe"
-#driver=webdriver.Chrome("C:\\Users\\28100\\AppData\\Local\\Google\\Chrome\\Application\\chromedriver.exe")
+driver=webdriver.Chrome("C:\\Users\\28100\\AppData\\Local\\Google\\Chrome\\Application\\chromedriver.exe")
 #driver=webdriver.Ie()
 
 
